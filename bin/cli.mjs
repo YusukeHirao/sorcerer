@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 import { Dealer } from '@yusukehirao/dealer';
 import meow from 'meow';
 import puppeteer from 'puppeteer';
