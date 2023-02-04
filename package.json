@@ -1,6 +1,6 @@
 {
   "name": "@yusukehirao/sorcerer",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Puppeteer manipulation utilities",
   "repository": "git@github.com:yusukehirao/sorcerer.git",
   "author": "yusukehirao",
