@@ -1,3 +1,6 @@
+# macOS
+.DS_Store
+
 # Logs
 logs
 *.log
@@ -102,3 +105,17 @@ dist
 
 # TernJS port file
 .tern-port
+
+# Destination
+cjs
+esm
+
+# Created file
+*.png
+*.pdf
+
+# Files that are created from test suites.
+!test/**/*.mjs
+
+# Samples
+!samples/**/*.pdf

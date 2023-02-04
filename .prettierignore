@@ -1,0 +1,14 @@
+cjs
+esm
+node_modules
+.DS_Store
+.editorconfig
+LICENSE
+media
+samples
+*ignore
+*.tsbuildinfo
+*.lock
+*.png
+*.pdf
+

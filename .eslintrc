@@ -1,0 +1,12 @@
+{
+  "extends": ["./node_modules/@yusukehirao/dev-config/.eslintrc.js"],
+  "overrides": [
+    {
+      "files": ["test/**/*.mjs"],
+      "globals": {
+        "page": true,
+        "browser": true
+      }
+    }
+  ]
+}

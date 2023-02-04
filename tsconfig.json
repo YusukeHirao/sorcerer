@@ -1,0 +1,7 @@
+{
+  "extends": "@yusukehirao/dev-config/tsconfig.base.json",
+  "compilerOptions": {
+    "outDir": "cjs",
+    "rootDir": "src"
+  }
+}
